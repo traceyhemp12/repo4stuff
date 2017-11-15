@@ -4,6 +4,7 @@
 //
 //  Created by Tracey Hemphill- Wright on 8/11/17.
 //  Copyright © 2017 Tracey Hemphill- Wright. All rights reserved.
+// Copyright © 2017 TEKK Studios. All rights reserved
 //
 
 import UIKit
